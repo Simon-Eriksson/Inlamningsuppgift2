@@ -27,7 +27,7 @@ export function CreateQuote() {
     };
 
     return (
-        <div>
+        <div className="container">
             <div>
                 <label>Enter your quote:</label>
                 <input

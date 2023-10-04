@@ -38,7 +38,7 @@ export function AllQuotes() {
     };
 
     return (
-        <div className="App">
+        <div className="container">
             <section>
                 <ol>{mapQuotes()}</ol>
             </section>

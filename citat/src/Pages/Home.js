@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { CopyToClipboard } from 'react-copy-to-clipboard';
 import { Link } from 'react-router-dom';
-// import "./QuoteStyle.css"
+import "./QuoteStyle.css"
 
 export function Home() {
 
